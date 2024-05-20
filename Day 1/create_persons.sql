@@ -8,5 +8,3 @@ CREATE TABLE Persons (
     City varchar(255)
 );
 GO
-
-GETDATE();
